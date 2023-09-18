@@ -1,0 +1,155 @@
+2023-08-07 08:45:51,063 ERROR    Error during open connection: 11001
+2023-08-07 08:45:51,065 INFO     Communication start sucess!#
+2023-08-07 08:46:01,071 ERROR    Error during message send process: timed out
+2023-08-07 08:46:01,072 INFO     Send command: 21CMD
+2023-08-07 09:03:30,244 ERROR    Error during open connection: 11001
+2023-08-07 09:03:30,245 INFO     Communication start sucess!#
+2023-08-07 09:03:40,254 ERROR    Error during message send process: timed out
+2023-08-07 09:03:40,254 INFO     Send command: 21CMD
+2023-08-07 09:03:50,263 ERROR    Connection timed out!
+2023-08-07 09:03:50,281 ERROR    Error during open connection: 11001
+2023-08-07 09:03:50,282 INFO     Communication start sucess!#
+2023-08-07 09:04:00,294 ERROR    Error during message send process: timed out
+2023-08-07 09:04:10,305 ERROR    Connection timed out!
+2023-08-07 09:04:10,330 ERROR    Error during open connection: 11001
+2023-08-07 09:04:10,331 INFO     Communication start sucess!#
+2023-08-07 09:04:20,337 ERROR    Error during message send process: timed out
+2023-08-07 09:04:30,344 ERROR    Connection timed out!
+2023-08-07 09:04:30,378 ERROR    Error during open connection: 11001
+2023-08-07 09:04:30,378 INFO     Communication start sucess!#
+2023-08-07 09:04:30,379 ERROR    Reset connection and send command again!!!
+2023-08-07 09:05:46,402 ERROR    Error during open connection: 11001
+2023-08-07 09:05:46,403 INFO     Communication start sucess!#
+2023-08-07 09:05:56,409 ERROR    Error during message send process: timed out
+2023-08-07 09:05:56,409 INFO     Send command: 21CMD
+2023-08-07 09:06:06,412 ERROR    Connection timed out!
+2023-08-07 09:06:06,478 ERROR    Error during open connection: 11001
+2023-08-07 09:06:06,479 INFO     Communication start sucess!#
+2023-08-07 09:06:16,485 ERROR    Error during message send process: timed out
+2023-08-07 09:06:26,486 ERROR    Connection timed out!
+2023-08-07 09:06:26,523 ERROR    Error during open connection: 11001
+2023-08-07 09:06:26,523 INFO     Communication start sucess!#
+2023-08-07 09:06:36,535 ERROR    Error during message send process: timed out
+2023-08-07 09:06:46,536 ERROR    Connection timed out!
+2023-08-07 09:06:46,575 ERROR    Error during open connection: 11001
+2023-08-07 09:06:46,576 INFO     Communication start sucess!#
+2023-08-07 09:06:46,577 ERROR    Reset connection and send command again!!!
+2023-08-07 09:11:46,645 ERROR    Error during open connection: 11001
+2023-08-07 09:11:46,646 INFO     Communication start sucess!#
+2023-08-07 09:11:56,664 ERROR    Error during message send process: timed out
+2023-08-07 09:12:06,679 ERROR    Connection timed out!
+2023-08-07 09:12:06,726 ERROR    Error during open connection: 11001
+2023-08-07 09:12:06,726 INFO     Communication start sucess!#
+2023-08-07 09:12:16,745 ERROR    Error during message send process: timed out
+2023-08-07 09:12:26,756 ERROR    Connection timed out!
+2023-08-07 09:12:26,972 ERROR    Error during open connection: 11001
+2023-08-07 09:12:26,972 INFO     Communication start sucess!#
+2023-08-07 09:12:26,977 ERROR    Reset connection and send command again!!!
+2023-08-07 10:11:35,718 ERROR    Error during open connection: 11001
+2023-08-07 10:11:35,719 INFO     Communication start sucess!#
+2023-08-07 10:11:45,723 ERROR    Error during message send process: timed out
+2023-08-07 10:11:45,724 INFO     Send command: 21CMD
+2023-08-07 10:11:55,731 ERROR    Connection timed out!
+2023-08-07 10:11:55,765 ERROR    Error during open connection: 11001
+2023-08-07 10:11:55,765 INFO     Communication start sucess!#
+2023-08-07 10:12:05,771 ERROR    Error during message send process: timed out
+2023-08-07 10:12:15,784 ERROR    Connection timed out!
+2023-08-07 10:12:15,816 ERROR    Error during open connection: 11001
+2023-08-07 10:12:15,817 INFO     Communication start sucess!#
+2023-08-07 10:12:25,829 ERROR    Error during message send process: timed out
+2023-08-07 10:12:35,831 ERROR    Connection timed out!
+2023-08-07 10:12:36,092 ERROR    Error during open connection: 11001
+2023-08-07 10:12:36,092 INFO     Communication start sucess!#
+2023-08-07 10:12:36,097 ERROR    Reset connection and send command again!!!
+2023-08-07 10:17:36,178 ERROR    Error during open connection: 11001
+2023-08-07 10:17:36,178 INFO     Communication start sucess!#
+2023-08-07 10:17:46,185 ERROR    Error during message send process: timed out
+2023-08-07 10:17:56,191 ERROR    Connection timed out!
+2023-08-07 10:17:56,287 ERROR    Error during open connection: 11001
+2023-08-07 10:17:56,287 INFO     Communication start sucess!#
+2023-08-07 10:18:06,297 ERROR    Error during message send process: timed out
+2023-08-07 10:18:16,298 ERROR    Connection timed out!
+2023-08-07 10:18:16,388 ERROR    Error during open connection: 11001
+2023-08-07 10:18:16,389 INFO     Communication start sucess!#
+2023-08-07 10:18:16,393 ERROR    Reset connection and send command again!!!
+2023-08-07 10:23:16,449 ERROR    Error during open connection: 11001
+2023-08-07 10:23:16,449 INFO     Communication start sucess!#
+2023-08-07 10:23:26,467 ERROR    Error during message send process: timed out
+2023-08-07 10:23:36,476 ERROR    Connection timed out!
+2023-08-07 10:23:36,521 ERROR    Error during open connection: 11001
+2023-08-07 10:23:36,522 INFO     Communication start sucess!#
+2023-08-07 10:23:46,535 ERROR    Error during message send process: timed out
+2023-08-07 10:23:56,539 ERROR    Connection timed out!
+2023-08-07 10:23:56,580 ERROR    Error during open connection: 11001
+2023-08-07 10:23:56,580 INFO     Communication start sucess!#
+2023-08-07 10:23:56,581 ERROR    Reset connection and send command again!!!
+2023-08-07 10:28:56,647 ERROR    Error during open connection: 11001
+2023-08-07 10:28:56,647 INFO     Communication start sucess!#
+2023-08-07 10:29:06,674 ERROR    Error during message send process: timed out
+2023-08-07 10:29:16,685 ERROR    Connection timed out!
+2023-08-07 10:29:16,726 ERROR    Error during open connection: 11001
+2023-08-07 10:29:16,726 INFO     Communication start sucess!#
+2023-08-07 10:29:26,730 ERROR    Error during message send process: timed out
+2023-08-07 10:29:36,743 ERROR    Connection timed out!
+2023-08-07 10:29:36,826 ERROR    Error during open connection: 11001
+2023-08-07 10:29:36,826 INFO     Communication start sucess!#
+2023-08-07 10:29:36,829 ERROR    Reset connection and send command again!!!
+2023-08-07 10:34:08,673 ERROR    Error during open connection: 11001
+2023-08-07 10:34:08,674 INFO     Communication start sucess!#
+2023-08-07 10:34:18,682 ERROR    Error during message send process: timed out
+2023-08-07 10:34:18,682 INFO     Send command: 21CMD
+2023-08-07 10:34:28,688 ERROR    Connection timed out!
+2023-08-07 10:34:28,706 ERROR    Error during open connection: 11001
+2023-08-07 10:34:28,707 INFO     Communication start sucess!#
+2023-08-07 10:34:38,721 ERROR    Error during message send process: timed out
+2023-08-07 10:34:48,731 ERROR    Connection timed out!
+2023-08-07 10:34:48,754 ERROR    Error during open connection: 11001
+2023-08-07 10:34:48,754 INFO     Communication start sucess!#
+2023-08-07 10:34:58,766 ERROR    Error during message send process: timed out
+2023-08-07 10:35:08,780 ERROR    Connection timed out!
+2023-08-07 10:35:08,829 ERROR    Error during open connection: 11001
+2023-08-07 10:35:08,829 INFO     Communication start sucess!#
+2023-08-07 10:35:08,831 ERROR    Reset connection and send command again!!!
+2023-08-07 10:40:08,937 ERROR    Error during open connection: 11001
+2023-08-07 10:40:08,938 INFO     Communication start sucess!#
+2023-08-07 10:40:18,956 ERROR    Error during message send process: timed out
+2023-08-07 10:40:28,957 ERROR    Connection timed out!
+2023-08-07 10:40:28,983 ERROR    Error during open connection: 11001
+2023-08-07 10:40:28,983 INFO     Communication start sucess!#
+2023-08-07 10:40:38,987 ERROR    Error during message send process: timed out
+2023-08-07 10:40:49,002 ERROR    Connection timed out!
+2023-08-07 10:40:49,031 ERROR    Error during open connection: 11001
+2023-08-07 10:40:49,032 INFO     Communication start sucess!#
+2023-08-07 10:40:49,032 ERROR    Reset connection and send command again!!!
+2023-08-07 10:52:29,017 ERROR    Error during open connection: 11001
+2023-08-07 10:52:29,017 INFO     Communication start sucess!#
+2023-08-07 10:52:39,020 ERROR    Error during message send process: timed out
+2023-08-07 10:52:39,020 INFO     Send command: 21CMD
+2023-08-07 10:52:49,036 ERROR    Connection timed out!
+2023-08-07 10:52:49,057 ERROR    Error during open connection: 11001
+2023-08-07 10:52:49,057 INFO     Communication start sucess!#
+2023-08-07 10:52:59,062 ERROR    Error during message send process: timed out
+2023-08-07 10:53:09,075 ERROR    Connection timed out!
+2023-08-07 10:53:09,101 ERROR    Error during open connection: 11001
+2023-08-07 10:53:09,102 INFO     Communication start sucess!#
+2023-08-07 10:53:19,107 ERROR    Error during message send process: timed out
+2023-08-07 10:53:29,118 ERROR    Connection timed out!
+2023-08-07 10:53:29,141 ERROR    Error during open connection: 11001
+2023-08-07 10:53:29,142 INFO     Communication start sucess!#
+2023-08-07 10:53:29,148 ERROR    Reset connection and send command again!!!
+2023-08-07 10:58:29,209 ERROR    Error during open connection: 11001
+2023-08-07 10:58:29,210 INFO     Communication start sucess!#
+2023-08-07 10:58:39,225 ERROR    Error during message send process: timed out
+2023-08-07 10:58:49,231 ERROR    Connection timed out!
+2023-08-07 10:59:10,327 ERROR    Error during open connection: 10060
+2023-08-07 10:59:10,328 INFO     Communication start sucess!#
+2023-08-07 10:59:20,336 ERROR    Error during message send process: timed out
+2023-08-07 10:59:30,348 ERROR    Connection timed out!
+2023-08-07 10:59:51,391 ERROR    Error during open connection: 10060
+2023-08-07 10:59:51,391 INFO     Communication start sucess!#
+2023-08-07 10:59:51,392 ERROR    Reset connection and send command again!!!
+2023-08-07 11:14:41,641 ERROR    Error during open connection: 10060
+2023-08-07 11:14:41,643 INFO     Communication start sucess!#
+2023-08-07 11:14:51,651 ERROR    Error during message send process: timed out
+2023-08-07 11:14:51,652 INFO     Send command: 21CMD
+2023-08-07 11:15:01,653 ERROR    Connection timed out!
